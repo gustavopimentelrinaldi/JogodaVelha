@@ -1,11 +1,11 @@
-# Jogo da Velha
+# Hash game
 ```
-Sobre um jogo alternado entre dois jogadores...(JavaScript)
-Setando imagem por evento de clique...
+Alternative game of two players.
+Setting image by click event.
 ```
-# Melhore o projeto...
+# Improve the project
 ```
-Clone esse repositório
-Crie sua funcionalidade
-dê pull request aqui!!
+Clone this repository
+create your feature
+pull request on branch master
 ```
